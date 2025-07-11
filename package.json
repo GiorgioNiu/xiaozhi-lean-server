@@ -6,7 +6,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "leanengine": "^3.10.0"
+    "leanengine": "^3"
   },
   "engines": {
     "node": "18.x"
