@@ -1,0 +1,14 @@
+{
+  "name": "xiaozhi-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "leanengine": "^3.10.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
